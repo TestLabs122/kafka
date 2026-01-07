@@ -1,7 +1,5 @@
 ## Contributing to Kafka
 
-*Before opening a pull request*, review the [Contributing](https://kafka.apache.org/contributing.html) and [Contributing Code Changes](https://cwiki.apache.org/confluence/display/KAFKA/Contributing+Code+Changes) pages.
-
 When you contribute code, you affirm that the contribution is your original work and that you
 license the work to the project under the project's open source license. Whether or not you
 state this explicitly, by submitting any copyrighted material via pull request, email, or
